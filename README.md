@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://1.bp.blogspot.com/-8J6nXMm4Fn4/X1nN5SrLvkI/AAAAAAAAAQ0/J8TNfruwGEgiAfOKxIiRD_q3dKOGUl-XQCLcBGAsYHQ/s530/Screenshot_20200910_122015.png" width="470" height="250">
 </p>
-Best Tool For Increase Instagram Follower.
+Best Tool For Increase Instagram and Tictock Followers.
 
 ## Requirements
 1. openssl
@@ -28,8 +28,8 @@ Best Tool For Increase Instagram Follower.
 
 `$ bash insfollow.sh`
 
-## • Watch Video Tutorial From Below
-* https://youtu.be/lo-rnztT1Xs
+## • Watch tutorials Video On our Telegram Bot 
+* http://t.me/HackersBot_2022bot
 ---
 
 <p align="center">
