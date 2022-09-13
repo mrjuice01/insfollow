@@ -36,6 +36,6 @@ Best Tool For Increase Instagram and Tictock Followers.
   Follow Me On
 </p>
 <p align="center">
-  <a href="https://www.instagram.com/mr_juice7/">
+  <a href="https://bio.link/mrjuice">
     <img src="https://github.com/mrjuice01.png" width="40" height="40">
 </p>
